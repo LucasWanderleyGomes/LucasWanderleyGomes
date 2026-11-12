@@ -8,8 +8,8 @@
 ### 👨‍💻 Sobre Mim
 
 Sou um desenvolvedor apaixonado por tecnologia, jogos retrô e literatura.
-- 🎓 **Formação:** Graduado em **Análise e Desenvolvimento de Sistemas**.
-- 🚀 **Atualmente:** Cursando **Engenharia de Software** (UNIFIP) e finalizando Pós-Graduação em **Segurança da Informação**.
+- 🎓 **Formação:** Graduado em **Análise e Desenvolvimento de Sistemas**, Pós-Graduado em **Segurança da Informação**.
+- 🚀 **Atualmente:** Cursando **Engenharia de Software** (UNIFIP) e **Ciências da Computação** (UEPB-Campos VII)
 - 💻 **Foco:** Desenvolvimento Full Stack com ênfase em **Python (Django)** e **React**, além de práticas de **DevOps**.
 
 
